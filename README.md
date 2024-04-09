@@ -1,16 +1,23 @@
-# appdeputados
+# Aplicativo de Consumo da API dos Deputados do Brasil
 
-A new Flutter project.
+Este aplicativo foi desenvolvido utilizando o framework Flutter para consumir a API da Câmara dos Deputados do Brasil. Ele permite visualizar informações sobre os deputados, incluindo seus detalhes e gastos.
 
-## Getting Started
+Configuração:
 
-This project is a starting point for a Flutter application.
+Faça a instalação do flutter e suas dependencias.
 
-A few resources to get you started if this is your first Flutter project:
+Execução:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Depois de configurar o ambiente, você pode executar o aplicativo no emulador ou em um dispositivo físico.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+execute: "flutter run"
+
+Funcionalidades:
+
+Passo a Passo do aplicativo, seguindo uma ordem de usabilidade com facilidade ajudando o usuário a utilizar o aplicativo de forma rápida e consiente.
+
+- Visualizar lista de deputados com suas fotos de perfil, nome e sigla do partido.
+- Acessar detalhes individuais de cada deputado, incluindo informações como nome, partido, estado, e-mail e gastos.
+- Realizar pesquisas por nome e/ou UF de deputados.
+- Visualizar gastos individuais de cada deputado.
+- vizualiar uma tela de comissões.

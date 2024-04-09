@@ -9,18 +9,18 @@ Faça a instalação do flutter e suas dependencias.
 Dependencias utilizadas no pubspec.yaml:
 
 dependencies:
-  device_preview:
-  http:
-  xml:
-  flutter:
-    sdk: flutter
+  -device_preview:
+  -http:
+  -xml:
+  -flutter:
+    -sdk: flutter
 
 dev_dependencies:
-  remove_diacritic: ^0.9.0
-  flutter_test:
-    sdk: flutter
+  -remove_diacritic: ^0.9.0
+  -flutter_test:
+    -sdk: flutter
 
-flutter_lints: ^3.0.0
+-flutter_lints: ^3.0.0
 
 Atualize as dependencias caso for preciso.
 

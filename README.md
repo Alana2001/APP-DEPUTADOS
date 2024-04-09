@@ -41,9 +41,24 @@ Passo a Passo do aplicativo, seguindo uma ordem de usabilidade com facilidade aj
 - Visualizar gastos individuais de cada deputado.
 - vizualiar uma tela de comissões.
 
-# PASSO A PASSO - UTILIZANDO O APLICATIVO:
-1 - ABRA O APP;
-2 - ESCOLHA UM DEPUTADO DE SUA PREFERÊNCIA, ONDA NA TELA INICIAL VAI ESTÁ LISTANDO TODOS OS DEPUTADOS, TENDO INFORMAÇÕES COMO: A FOTO DO PERFIL, NOME COMPLETO E A SIGLA DO PARTIDO QUE ELE/ELA FAZ PARTE;
-3 - LOGO EM SEGUINDA, SERÁ DIRECIONADO PARA A TELA DE INFORMAÇÕES DOS DEPUTADOS, ONDE TAMBÉM MOSTRA A FOTO DO PERFIL NOVAMENTE, COM O NOME COMPLETO, O PARTTIDO, ESTADO, SEU E-MAIL E OS GASTOS E SERVIÇOS, E TEM A OPÇÃO DE CONSULTAR AS ATIVIDADES RECENTES QUE FORAM REALIZADAS POR ELES, QUE SERÁ UM BOTÃO CENTRALIZADO NA TELA DE INFORMAÇÕES;
-4 - PODERAM FAZER PESQUISAS, QUE SE LOCALIZA NA PARTE SUPERIOR DO APLICATIVO, NA TELA INICIA, PODENDO REALIZAR PESQUISAS PELO NOME DO DEPUTADO E UF;
-5 - E POR ÚLTIMO TERÁ TODAS AS INORMAÇÕES DAS COMISSÕES DOS DEPUTADOS, SÓ APERTAR NO CANTO INFERIOR DIREITO NA TELA INCIAL, QUE IRÁ NAVEGAR PARA A PRÓXIMA TELA DE COMISSÕES.
+# Instruções para Utilizar o Aplicativo de Consumo da API dos Deputados do Brasil
+
+1. **Abrir o Aplicativo**
+   - Ao abrir o aplicativo, será exibida uma lista de todos os deputados, mostrando informações como foto do perfil, nome completo e sigla do partido.
+
+2. **Escolher um Deputado**
+   - Navegue pela lista de deputados e escolha o deputado de sua preferência.
+   - Clique no deputado desejado para visualizar mais informações.
+
+3. **Visualizar Informações do Deputado**
+   - Na tela de informações do deputado, você verá novamente a foto do perfil, nome completo, partido, estado, e-mail, gastos e serviços.
+   - Haverá um botão centralizado para consultar as atividades recentes realizadas pelo deputado.
+
+4. **Realizar Pesquisas**
+   - No topo do aplicativo, na tela inicial, há um campo de pesquisa.
+   - Você pode pesquisar deputados pelo nome ou UF (Unidade Federativa).
+
+5. **Acessar Informações das Comissões**
+   - Na tela inicial, clique no canto inferior direito para navegar para a tela de comissões.
+   - Lá, você encontrará todas as informações sobre as comissões dos deputados.
+
